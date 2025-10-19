@@ -17,17 +17,6 @@ The repository includes the full analytical pipeline but not the source data.
 Python (pandas, NumPy, statsmodels, scikit-learn, BeautifulSoup, requests, fuzzywuzzy, matplotlib, seaborn)
 
 ## Repository Structure
-notebooks/
-├── 01_web_scraping.ipynb
-├── 02_data_cleaning.ipynb
-├── 03_data_linkage.ipynb
-├── 04_econometric_analysis.ipynb
-└── 05_visualization_results.ipynb
-scripts/
-└── helper_functions.py
-requirements.txt
-
-## Repository Structure
 
 - [01_web_scraping.ipynb](https://github.com/Lujainism/saudi-drug-pricing-policy-impact/blob/main/01_web_scraping.ipynb) — Demonstrates the workflow used to retrieve missing SFDA registration year data from public sources. No proprietary data included.
 
