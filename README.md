@@ -27,6 +27,9 @@ scripts/
 └── helper_functions.py
 requirements.txt
 
+## Repository Structure
+
+- [01_web_scraping.ipynb](https://github.com/Lujainism/saudi-drug-pricing-policy-impact/blob/main/01_web_scraping.ipynb) — Demonstrates the workflow used to retrieve missing SFDA registration year data from public sources. No proprietary data included.
 
 
 ## Author
