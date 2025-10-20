@@ -11,7 +11,7 @@ The repository includes the full analytical pipeline but not the source data.
 - Data integration and cleaning across FDA, EMA, MHRA, and SFDA approval datasets  
 - Web scraping scripts (structure only; no proprietary endpoints)  
 - Econometric modeling (OLS, DiD with fixed effects)  
-- Visualization of launch delays by therapeutic area and cost tier
+- Visualization of launch delays by intervention group.
 
 ## Technical Stack
 - **Languages & Core:** Python (3.12)
