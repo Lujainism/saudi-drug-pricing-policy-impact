@@ -1,5 +1,6 @@
 # saudi-drug-pricing-policy-impact
-Code and workflow for my Stanford MS thesis analyzing Saudi Arabia’s 2021 drug pricing policy using econometric (DiD) models. 
+
+This project investigates the impact of Saudi Arabia’s 2021 national drug pricing reform on pharmaceutical launch timelines. Using multi-country regulatory approval data (FDA, EMA, MHRA, SFDA) and a Difference-in-Differences (DiD) econometric design, it quantifies how pricing policies influence market entry delays for innovative and high-cost therapies. This repository provides the complete code and workflow developed for my Stanford MS thesis, 
 
 ## Data
 Raw data were obtained from **GlobalData**, which requires licensed access and cannot be shared publicly.  
@@ -12,9 +13,13 @@ The repository includes the full analytical pipeline but not the source data.
 - Econometric modeling (OLS, DiD with fixed effects)  
 - Visualization of launch delays by therapeutic area and cost tier
 
-
-## Tools
-Python (pandas, NumPy, statsmodels, scikit-learn, BeautifulSoup, requests, fuzzywuzzy, matplotlib, seaborn)
+## Technical Stack
+- **Languages & Core:** Python (3.12)
+- **Data Handling & Management:** pandas, NumPy, textwrap, os
+- **Statistical Analysis & Econometrics:** statsmodels, patsy, scipy, scikit-learn
+- **Descriptive & Inferential Statistics:** tableone, tabulate, winsorize, mannwhitneyu, t-test
+- **Modeling:** Logistic Regression, Difference-in-Differences (DiD), OLS with fixed effects
+- **Visualization:** matplotlib, seaborn
 
 ## Repository Structure
 
