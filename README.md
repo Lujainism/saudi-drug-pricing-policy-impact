@@ -23,8 +23,8 @@ Python (pandas, NumPy, statsmodels, scikit-learn, BeautifulSoup, requests, fuzzy
 - [03_main_analysis.ipynb](https://github.com/Lujainism/saudi-drug-pricing-policy-impact/blob/main/03_main_analysis.ipynb) — Performs the main analysis, including data manipulation, computation of key analytical variables, and model preparation. This notebook conducts exploratory data analysis, builds the primary econometric models (Difference-in-Differences with year fixed effects and full control variables). It also generates descriptive and regression summary tables, automatically formatted and styled for publication—ready to be exported or directly included in reports and manuscripts.
 
 ### Supporting Documentation
-- [linkage_methodology.pdf]([link_to_file](https://github.com/Lujainism/saudi-drug-pricing-policy-impact/blob/main/linkage_methodol.pdf)) — Details the linkage process across EMA, FDA, MHRA, and SFDA datasets, including standardized ID, fuzzy matching, and manual verification.
-- [sensitivity_checks.pdf]([link_to_file](https://github.com/Lujainism/saudi-drug-pricing-policy-impact/blob/main/senstivity_checks.pdf)) — Describes the linkage quality assessments and model robustness checks, consistent with Appendices B–C of the thesis.
+- [linkage_methodology.pdf]([link_to_file](https://github.com/Lujainism/saudi-drug-pricing-policy-impact/blob/main/linkage_methodol.pdf) — Details the linkage process across EMA, FDA, MHRA, and SFDA datasets, including standardized ID, fuzzy matching, and manual verification.
+- [sensitivity_checks.pdf]([link_to_file](https://github.com/Lujainism/saudi-drug-pricing-policy-impact/blob/main/senstivity_checks.pdf) — Describes the linkage quality assessments and model robustness checks, consistent with Appendices B–C of the thesis.
 
 
 ## Author
